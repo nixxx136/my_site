@@ -1,5 +1,5 @@
 import React from 'react';
-import YS from '../../images/1.png'
+import YS from '../../images/homepage.jpg'
 
 export default class Home extends React.Component {
   render() {
